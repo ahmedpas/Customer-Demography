@@ -1,0 +1,51 @@
+CustomerID,Name,Age,Gender,Email,Phone,City,State,Country,IncomeLevel,Occupation,PurchaseFrequency,FavoriteCategory
+1,John Doe,34,Male,johndoe@example.com,555-1234,New York,NY,USA,High,Software Engineer,Monthly,Electronics
+2,Jane Smith,28,Female,janesmith@example.com,555-5678,Los Angeles,CA,USA,Medium,Graphic Designer,Weekly,Clothing
+3,Alice Johnson,45,Female,alicej@example.com,555-8765,Chicago,IL,USA,High,Marketing Manager,Monthly,Home Goods
+4,Bob Brown,52,Male,bobb@example.com,555-4321,Houston,TX,USA,Medium,Accountant,Weekly,Groceries
+5,Charlie Davis,29,Male,charlied@example.com,555-6543,Phoenix,AZ,USA,Low,Sales Associate,Monthly,Electronics
+6,Eva Green,37,Female,evag@example.com,555-3456,Philadelphia,PA,USA,High,Doctor,Weekly,Clothing
+7,Frank Wilson,41,Male,frankw@example.com,555-7890,San Antonio,TX,USA,Medium,Teacher,Monthly,Books
+8,Grace Hall,26,Female,graceh@example.com,555-2345,San Diego,CA,USA,Low,Student,Weekly,Clothing
+9,Hank Martinez,33,Male,hankm@example.com,555-6789,Dallas,TX,USA,High,Engineer,Monthly,Electronics
+10,Ivy Lee,30,Female,ivyl@example.com,555-9876,San Jose,CA,USA,Medium,Product Manager,Weekly,Home Goods
+11,Jack White,48,Male,jackw@example.com,555-3210,Austin,TX,USA,High,Lawyer,Monthly,Books
+12,Karen Clark,22,Female,karenc@example.com,555-6543,Jacksonville,FL,USA,Low,Intern,Weekly,Clothing
+13,Liam Harris,39,Male,liamh@example.com,555-8765,San Francisco,CA,USA,High,Data Scientist,Monthly,Electronics
+14,Mia Lewis,27,Female,mial@example.com,555-2345,Indianapolis,IN,USA,Medium,Designer,Weekly,Clothing
+15,Noah Walker,31,Male,noahw@example.com,555-5678,Columbus,OH,USA,High,Developer,Monthly,Electronics
+16,Olivia Young,24,Female,oliviay@example.com,555-4321,Fort Worth,TX,USA,Low,Assistant,Weekly,Groceries
+17,Paul Allen,50,Male,paula@example.com,555-7890,Charlotte,NC,USA,High,Consultant,Monthly,Books
+18,Quinn Scott,29,Female,quinns@example.com,555-1234,Seattle,WA,USA,Medium,Writer,Weekly,Clothing
+19,Ryan King,36,Male,ryank@example.com,555-6543,Denver,CO,USA,High,Architect,Monthly,Home Goods
+20,Sophia Adams,43,Female,sophiaa@example.com,555-8765,Washington,DC,USA,Medium,Manager,Weekly,Clothing
+21,Ethan Baker,29,Male,ethanb@example.com,555-3456,Boston,MA,USA,Low,Sales Associate,Monthly,Electronics
+22,Emma Carter,35,Female,emmac@example.com,555-7890,Nashville,TN,USA,High,Doctor,Weekly,Clothing
+23,Lucas Evans,40,Male,lucase@example.com,555-2345,Detroit,MI,USA,Medium,Teacher,Monthly,Books
+24,Ava Garcia,27,Female,avag@example.com,555-6789,Portland,OR,USA,Low,Student,Weekly,Clothing
+25,Mason Harris,33,Male,masonh@example.com,555-9876,Oklahoma City,OK,USA,High,Engineer,Monthly,Electronics
+26,Sophia Martinez,30,Female,sophiam@example.com,555-3210,Las Vegas,NV,USA,Medium,Product Manager,Weekly,Home Goods
+27,Logan Robinson,48,Male,loganr@example.com,555-6543,Louisville,KY,USA,High,Lawyer,Monthly,Books
+28,Isabella Clark,22,Female,isabellac@example.com,555-8765,Baltimore,MD,USA,Low,Intern,Weekly,Clothing
+29,Elijah Rodriguez,39,Male,elijah@example.com,555-2345,Milwaukee,WI,USA,High,Data Scientist,Monthly,Electronics
+30,Charlotte Lewis,27,Female,charlottel@example.com,555-5678,Albuquerque,NM,USA,Medium,Designer,Weekly,Clothing
+31,Amelia Walker,31,Female,ameliaw@example.com,555-4321,Tucson,AZ,USA,High,Developer,Monthly,Electronics
+32,James Young,24,Male,jamesy@example.com,555-7890,Fresno,CA,USA,Low,Assistant,Weekly,Groceries
+33,Benjamin Allen,50,Male,benjamina@example.com,555-1234,Sacramento,CA,USA,High,Consultant,Monthly,Books
+34,Mia Scott,29,Female,miasc@example.com,555-6543,Kansas City,MO,USA,Medium,Writer,Weekly,Clothing
+35,William King,36,Male,williamk@example.com,555-8765,Atlanta,GA,USA,High,Architect,Monthly,Home Goods
+36,Harper Adams,43,Female,harpera@example.com,555-3456,Miami,FL,USA,Medium,Manager,Weekly,Clothing
+37,Daniel Baker,29,Male,danielb@example.com,555-7890,Omaha,NE,USA,Low,Sales Associate,Monthly,Electronics
+38,Emily Carter,35,Female,emilyc@example.com,555-2345,Raleigh,NC,USA,High,Doctor,Weekly,Clothing
+39,Alexander Evans,40,Male,alexandere@example.com,555-6789,Minneapolis,MN,USA,Medium,Teacher,Monthly,Books
+40,Elizabeth Garcia,27,Female,elizabethg@example.com,555-9876,Cleveland,OH,USA,Low,Student,Weekly,Clothing
+41,Michael Harris,33,Male,michaelh@example.com,555-3210,New Orleans,LA,USA,High,Engineer,Monthly,Electronics
+42,Abigail Martinez,30,Female,abigailm@example.com,555-6543,Orlando,FL,USA,Medium,Product Manager,Weekly,Home Goods
+43,David Robinson,48,Male,davidr@example.com,555-8765,Honolulu,HI,USA,High,Lawyer,Monthly,Books
+44,Ella Clark,22,Female,ellac@example.com,555-2345,Anchorage,AK,USA,Low,Intern,Weekly,Clothing
+45,Joseph Rodriguez,39,Male,josephr@example.com,555-5678,Portland,ME,USA,High,Data Scientist,Monthly,Electronics
+46,Scarlett Lewis,27,Female,scarlettl@example.com,555-4321,Boise,ID,USA,Medium,Designer,Weekly,Clothing
+47,Samuel Walker,31,Male,samuelw@example.com,555-7890,Madison,WI,USA,High,Developer,Monthly,Electronics
+48,Victoria Young,24,Female,victoriay@example.com,555-1234,Reno,NV,USA,Low,Assistant,Weekly,Groceries
+49,Henry Allen,50,Male,henrya@example.com,555-6543,Buffalo,NY,USA,High,Consultant,Monthly,Books
+50,Aria Scott,29,Female,ariasc@example.com,555-8765,St. Louis,MO,USA,Medium,Writer,Weekly,Clothing
